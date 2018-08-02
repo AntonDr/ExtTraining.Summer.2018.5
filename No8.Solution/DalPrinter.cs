@@ -1,6 +1,6 @@
 ﻿namespace No8.Solution
 {
-    public class DalPrinter
+    public struct DalPrinter
     {
         public string Name { get; set; }
 
